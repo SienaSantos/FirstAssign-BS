@@ -1,0 +1,29 @@
+.body{
+  border : 1px solid;
+}
+div{
+  border : 1px solid;
+}
+.col-sm-12 img{
+  padding: 0px;
+  width: 100%;
+  background-color : #00A3EE;
+}
+
+form{
+  height: 100%;
+  padding: 10px;
+  float: right;
+}
+.col-sm-2{
+  padding: 0px;
+}
+.col-sm-12 ul{
+  background-color: #1084D1;
+}
+.col-sm-12 ul a{
+  background-color: #1084D1;
+}
+.row{
+  min-height: 100px;
+}
