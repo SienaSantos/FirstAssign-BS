@@ -1,8 +1,8 @@
 .body{
-  border : 1px solid;
+
 }
 div{
-  border : 1px solid;
+
 }
 .col-sm-12 img{
   padding: 0px;
@@ -14,16 +14,46 @@ form{
   height: 100%;
   padding: 10px;
   float: right;
+  border-left: 1px solid white;
+  border-radius: 10px 0px 0px 0px;
+}
+.col-sm-12{
+padding: 0px !important;
 }
 .col-sm-2{
   padding: 0px;
 }
-.col-sm-12 ul{
-  background-color: #1084D1;
-}
-.col-sm-12 ul a{
-  background-color: #1084D1;
-}
 .row{
-  min-height: 100px;
+  min-height: 20px;
+}
+.navbar-default{
+  background-color: #1084D1;
+  margin-bottom: 0px;
+}
+.navbar-default ul li a{
+  color: #ffffff !important;
+  border-right: 1px solid;
+  border-radius: 0px 10px 0px 0px;
+}
+.Buttonr2{
+  padding: 10px;
+  color : white;
+  background-color : #337ab7;
+  border-radius: 10px 10px 10px 10px;
+}
+h3{
+  background-color:  #1084D1;
+  color: #eee;
+  padding: 10px;
+  margin: 5px !important;
+  border-radius: 5px 5px 5px 5px ;
+}
+
+.panel-heading{
+  background-color: #1084D1 !important;
+  text-align: center;
+  margin-top: 10px;
+}
+.panel-primary{
+  border-color: white !important;
 }
